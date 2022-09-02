@@ -1,0 +1,436 @@
+{
+  "course": {
+    "x_learners_enrolled_1": "1 persona inscrita",
+    "x_learners_enrolled_5": "%d personas inscritas",
+    "x_learners_enrolled_0": "No hay ninguna persona inscrita",
+    "requires_x_months_1": "1 mes",
+    "requires_x_months_5": "%d meses",
+    "requires_x_months_0": "Menos de 1 mes",
+    "enroll_now": "Inscribirse",
+    "x_reviews_1": "1 reseña",
+    "x_reviews_5": "%d reseñas",
+    "x_reviews_0": "No hay reseñas",
+    "review_modules": "Repasar el programa",
+    "certificate": {
+      "title": "¡Obtenga su credencial digital!",
+      "body": "Recibirá una credencial digital después de llevar a cabo los módulos del programa de aprendizaje que sean necesarios o de recibir una calificación satisfactoria en la evaluación correspondiente."
+    },
+    "contents": {
+      "title": "Contenido del programa de aprendizaje"
+    },
+    "introduction_video": "Introducción al programa de aprendizaje",
+    "save_for_later": "Guardar para más adelante",
+    "start_learning": "Comenzar a aprender",
+    "continue_learning": "Seguir aprendiendo",
+    "started_on_date": "Comenzado el {s}",
+    "x_modules_5": "%d módulos",
+    "x_modules_1": "1 módulo",
+    "x_modules_0": "0 módulos",
+    "x_percent_complete": "{d}% realizado",
+    "enrolled": "Inscripción realizada",
+    "enrolled_alert": {
+      "title": "Se ha inscrito correctamente",
+      "message": "Ya se ha inscrito en este programa. Ahora puede encontrarlo en Mi aprendizaje."
+    },
+    "unenroll": {
+      "alert": {
+        "title": "¿Desea anular la inscripción en este programa de aprendizaje?",
+        "message": "¿Confirma que desea anular la inscripción en este programa de aprendizaje?"
+      },
+      "title": "Anular inscripción"
+    },
+    "completed_successfully": "Finalizado correctamente",
+    "learning_programme": {
+      "begin": {
+        "title": "El programa de aprendizaje comienza el"
+      },
+      "start": {
+        "title": "Programa de aprendizaje iniciado el"
+      },
+      "complete": {
+        "title": "Programa de aprendizaje finalizado el"
+      }
+    },
+    "tab": {
+      "course_overview": "Descripción general del programa",
+      "modules": "Módulos"
+    },
+    "breadcrumb": {
+      "course": "Programas de aprendizaje",
+      "all_courses": "Todos los programas de aprendizaje"
+    },
+    "enrollments_closed": "La inscripción se ha cerrado",
+    "x_chapters_0": "0 capítulos",
+    "x_chapters_1": "1 capítulo",
+    "x_chapters_3": "%d capítulos",
+    "x_chapters_4": "%d capítulos",
+    "x_chapters_5": "%d capítulos"
+  },
+  "general": {
+    "value_out_of_total": "%{value}/%{total}",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "change": "Cambiar",
+    "edit": "Editar",
+    "next": "Siguiente",
+    "done": "Listo",
+    "select": "Seleccionar…",
+    "skip": "Omitir",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "no_selection": "No se ha seleccionado ninguna opción",
+    "error_occurred": "¡Vaya! Algo salió mal.",
+    "try_again": "Inténtelo de nuevo",
+    "try_again_later": "Inténtelo de nuevo más tarde.",
+    "loading_ellipsis": "Cargando…",
+    "choose_an_action": "Elija una acción…",
+    "upload": "Cargar",
+    "delete": "Eliminar",
+    "dismiss": "Descartar",
+    "clear": "Borrar",
+    "menu": {
+      "home": "Inicio",
+      "my_learning": "Mi aprendizaje"
+    },
+    "explore_learning_programmes": "Explorar los programas de aprendizaje",
+    "restart_needed": "La aplicación se reiniciará ahora y se actualizará la configuración.",
+    "continue": "Continuar",
+    "ok": "Aceptar",
+    "show_all": "Mostrar todo"
+  },
+  "self_paced": {
+    "contents": "Contenido"
+  },
+  "my_learning": {
+    "heading": "Mi aprendizaje",
+    "section": {
+      "continue": "En curso",
+      "enrolled": "Inscripción realizada",
+      "saved": "Guardado",
+      "completed": "Finalizado",
+      "recommended": "Recomendado"
+    },
+    "tab": {
+      "continue_learning": "Seguir aprendiendo",
+      "recommendations": "Recomendaciones",
+      "insights": "Información sobre el aprendizaje",
+      "wishlist": "Lista de deseos",
+      "my_achievements": "Mis logros",
+      "completed": "Finalizados"
+    },
+    "continue_learning": {
+      "empty": {
+        "title": "Inscríbase en un programa de aprendizaje para comenzar a aprender",
+        "subtitle": "Una vez que se inscriba en los programas de aprendizaje, podrá ver cuánto ha progresado en cada uno de ellos."
+      }
+    },
+    "completed": {
+      "empty": {
+        "title": "Todavía no ha terminado ningún programa de aprendizaje.",
+        "subtitle": "Pero si sigue trabajando, esta página pronto estará llena."
+      }
+    }
+  },
+  "my_profile": {
+    "details": {
+      "heading": "Información del perfil",
+      "subheading": "La información de su perfil solo se utilizará para expedir las credenciales.",
+      "title": "Editar perfil",
+      "edit_picture": "Editar la imagen de perfil",
+      "job_role": {
+        "title": "Función actual"
+      },
+      "job_tenure": {
+        "title": "¿Cuánto tiempo lleva desempeñando esa función?"
+      },
+      "full_name": "Nombre completo",
+      "email": "Correo electrónico",
+      "age": "Edad",
+      "gender": "Sexo",
+      "remove_photo": "Eliminar foto",
+      "choose_photo": "Seleccionar foto",
+      "move_and_scale": "Mover y ajustar la escala",
+      "update_picture": "Actualizar la foto del perfil",
+      "first_name": "Nombre",
+      "last_name": "Apellido"
+    },
+    "heading": "Mi perfil",
+    "education": {
+      "heading": "Formación",
+      "subheading": "Modifique su formación."
+    },
+    "skills": {
+      "heading": "Competencias y experiencia",
+      "subheading": "Modifique sus competencias y experiencia."
+    },
+    "language": {
+      "heading": "Idioma",
+      "subheading": "Modifique la configuración del idioma.",
+      "label": "Seleccione el idioma que prefiera para la plataforma"
+    },
+    "interests": {
+      "heading": "Intereses de aprendizaje",
+      "subheading": "Modifique sus intereses de aprendizaje."
+    },
+    "privacy": {
+      "heading": "Configuración de privacidad",
+      "subheading": "Modifique la configuración de privacidad."
+    },
+    "log_out": {
+      "title": "Cerrar sesión",
+      "alert": {
+        "title": "¿Confirma que desea cerrar sesión?",
+        "subtitle": "¿De veras desea cerrar la sesión?",
+        "button": "Cerrar sesión"
+      }
+    },
+    "feedback": "Comentarios",
+    "designed_by": "Diseñado y desarrollado por",
+    "who_academy": "la Academia de la OMS",
+    "account": {
+      "title": "Preferencias de la cuenta"
+    },
+    "account_preferences": "Preferencias de la cuenta",
+    "goals_and_skills": "Objetivos y competencias",
+    "goals": {
+      "skills": "Competencias",
+      "goals": "Objetivos",
+      "saved": "Guardado"
+    },
+    "profile_image": "Imagen de perfil de {s}",
+    "edit_profile": "Editar perfil",
+    "gender": {
+      "other": {
+        "please_specify": "Especifique"
+      }
+    },
+    "error": {
+      "profile_image_upload": "No hemos podido cargar su imagen de perfil."
+    },
+    "terms_conditions": "Términos y condiciones",
+    "delete_picture": {
+      "title": "¿Eliminar la imagen del perfil?",
+      "subtitle": "¿Confirma que desea eliminar la imagen del perfil?"
+    }
+  },
+  "dashboard": {
+    "continue_learning": {
+      "title": "Seguir aprendiendo",
+      "empty": {
+        "button": "Descubrir opciones de aprendizaje",
+        "title": "Siga explorando sus opciones de aprendizaje."
+      }
+    },
+    "title": "Panel",
+    "discover_learning": "Descubrir opciones de aprendizaje",
+    "welcome": {
+      "welcome_name": "¡Hola, {s}!",
+      "title": "Le damos la bienvenida.",
+      "subtitle": "¡Nos alegra contar con usted!"
+    },
+    "upcoming_events": {
+      "title": "Próximos eventos"
+    },
+    "complete_your_profile": "Complete su perfil",
+    "feedback": {
+      "button": "Hacer comentarios",
+      "message": "Dedique unos minutos a contarnos cómo ha sido su experiencia en el uso de la plataforma de aprendizaje de la Academia. Sus comentarios nos ayudarán a mejorarla. ¡Gracias!",
+      "title": "¡Queremos saber su opinión!"
+    }
+  },
+  "data": {
+    "current_role_duration": {
+      "lessThanSixMonths": "Menos de 6 meses",
+      "lessThanOneYear": "Menos de 1 año",
+      "oneToTwoYears": "De 1 a 2 años",
+      "twoToThreeYears": "De 2 a 3 años",
+      "threeToFiveYears": "De 3 a 5 años",
+      "moreThanFiveYears": "Más de 5 años"
+    },
+    "language": {
+      "en": "English",
+      "es": "Español",
+      "fr": "Français",
+      "ar": "العربية",
+      "ru": "Русский",
+      "zh": "中文"
+    },
+    "streaming_quality": {
+      "auto": "Automática",
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta"
+    },
+    "course_duration": {
+      "1month": "1 mes",
+      "1day": "1 día",
+      "1week": "1 semana",
+      "3months": "3 meses",
+      "1year": "1 año",
+      "6months": "6 meses"
+    },
+    "role_tenure": {
+      "1": "Menos de 6 meses",
+      "2": "Menos de 1 año",
+      "3": "De 1 a 2 años",
+      "4": "De 2 a 3 años",
+      "5": "De 3 a 5 años",
+      "6": "Más de 5 años"
+    },
+    "gender": {
+      "1": "Masculino",
+      "2": "Femenino",
+      "3": "Otro…"
+    },
+    "release_date": {
+      "1": "Todo",
+      "2": "En el último mes",
+      "3": "Hace más de 1 mes"
+    },
+    "age": {
+      "8": "75 años o más"
+    },
+    "pacing": {
+      "self": "Formación autodirigida",
+      "instructor": "Formación dirigida por un instructor"
+    }
+  },
+  "onboarding": {
+    "job": {
+      "heading": "Cuéntenos un poco sobre usted",
+      "subheading": "Responda las siguientes preguntas para ayudarnos a conocerle y comprender sus objetivos de aprendizaje. Sus respuestas nos ayudarán a crear itinerarios y recomendaciones de aprendizaje personalizados en el futuro.",
+      "current_role": {
+        "label": "¿Cuál de las siguientes opciones se acerca más a la función que usted desempeña?",
+        "hint": "Función"
+      },
+      "duration": {
+        "label": "¿Cuánto tiempo lleva desempeñando esa función?",
+        "hint": "Años"
+      },
+      "other": {
+        "please_specify": "Especifique"
+      },
+      "title": "Le damos la bienvenida a la Academia de la OMS"
+    },
+    "title": "Introducción",
+    "location": {
+      "heading": "Cuéntenos un poco sobre usted",
+      "subheading": "Esta información nos permitirá ofrecerle nuestras mejores recomendaciones para su itinerario de aprendizaje. ",
+      "country": {
+        "label": "¿Dónde reside?",
+        "hint": "País"
+      }
+    },
+    "goals": {
+      "heading": "Objetivos de aprendizaje",
+      "subheading": "Esta información nos permitirá ofrecerle nuestras mejores recomendaciones para su itinerario de aprendizaje. ",
+      "hint": "Cuéntenos cuáles son sus objetivos de aprendizaje",
+      "placeholder": "Escriba hasta cinco objetivos (o intereses o temas), p. ej., “Ébola”, “COVID-19”, “Emergencia”."
+    },
+    "get_started": {
+      "title": "¡Comience su aprendizaje ya!",
+      "subtitle": "Ha finalizado correctamente su incorporación. ¡Estamos encantados de contar con usted!",
+      "button": "Comenzar a aprender"
+    },
+    "steps": {
+      "general": "Información general",
+      "learning_goals": "Objetivos de aprendizaje"
+    }
+  },
+  "search": {
+    "filter": {
+      "duration": "Duración",
+      "audience": "Público objetivo",
+      "goals": "Objetivos de aprendizaje",
+      "release_date": "Fecha de lanzamiento",
+      "reset": "Restablecer",
+      "apply": "Aplicar",
+      "language": "Idioma",
+      "title": "Filtros"
+    },
+    "tab": {
+      "learning_programs": "Programas de aprendizaje",
+      "modules": "Módulos"
+    },
+    "empty": {
+      "subtitle": "pero no nos pierda de vista, porque siempre estamos añadiendo programas de aprendizaje a nuestra plataforma.",
+      "title": "¡Vaya! Todavía no tenemos ese programa..."
+    },
+    "hint": "Pulse ENTER para buscar"
+  },
+  "achievements": {
+    "empty": {
+      "button": "Explorar los programas de aprendizaje",
+      "subtitle": "Una vez que inicie un programa de aprendizaje, sus credenciales aparecerán aquí.",
+      "title": "Aún no ha terminado ningún programa de aprendizaje."
+    },
+    "copy_url": "Copiar URL",
+    "issuer_name": "Nombre de quien expide",
+    "microcredentials": "Microcredenciales",
+    "url_copied": "URL copiada",
+    "valid_from": "Fecha de inicio de la validez",
+    "microcredential": "Microcredencial",
+    "view_credential": "Ver microcredencial",
+    "share_credential": "Compartir credencial"
+  },
+  "vle": {
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "not_enrolled": "No se ha inscrito en este programa de aprendizaje.",
+    "next_module": "Siguiente módulo",
+    "finish": "Finalizar",
+    "exit_course": "Volver al inicio",
+    "success": {
+      "title": "¡Felicitaciones!",
+      "microcredential": {
+        "subtitle": "Se le ha expedido una microcredencial.",
+        "message": "Puede ver todas sus credenciales en Mis logros.",
+        "button": "Ir a Mis logros"
+      },
+      "completed": {
+        "subtitle": "Programa de aprendizaje finalizado",
+        "message": "Puede continuar su itinerario de aprendizaje navegando por nuestro catálogo."
+      }
+    },
+    "previous_module": "Módulo anterior",
+    "unit": {
+      "empty": {
+        "message": "No se halló ninguna unidad"
+      }
+    },
+    "reader_view": "Vista de lectura",
+    "default_view": "Vista predeterminada",
+    "course_exit": "Salir del curso",
+    "error": {
+      "incomplete": {
+        "title": "Todavía no ha terminado todos los módulos.",
+        "message": "Hay que terminar todos los módulos para finalizar el programa de aprendizaje."
+      },
+      "zoom_not_installed": {
+        "title": "No tiene instalado Zoom.",
+        "message": "Es necesario tener Zoom instalado para acceder a las aulas virtuales en directo.",
+        "button": {
+          "ios": "Mostrar en App Store",
+          "android": "Mostrar en Play Store"
+        }
+      }
+    },
+    "next_chapter": "Capítulo siguiente",
+    "previous_chapter": "Capítulo anterior"
+  },
+  "discussions": {
+    "empty": "No se ha inscrito en ningún programa de aprendizaje.",
+    "heading": "Conversaciones",
+    "post": {
+      "all_responses": "Todas las respuestas"
+    }
+  },
+  "welcome": {
+    "start_learning": {
+      "button": "Comenzar a aprender"
+    },
+    "title": "Le damos la bienvenida a la Academia de la OMS",
+    "subtitle": "Transformamos el aprendizaje permanente para incidir en la salud mundial.",
+    "footer": "Diseñado y desarrollado por la Academia de la OMS. Para obtener más información, consulte nuestros Términos y condiciones."
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "course": {
+    "x_learners_enrolled_1": "1 learner enrolled",
+    "x_learners_enrolled_5": "%d learners enrolled",
+    "x_learners_enrolled_0": "No learners enrolled",
+    "requires_x_months_1": "1 month",
+    "requires_x_months_5": "%d months",
+    "requires_x_months_0": "< 1 month",
+    "enroll_now": "Enroll",
+    "x_reviews_1": "1 review",
+    "x_reviews_5": "%d reviews",
+    "x_reviews_0": "No reviews",
+    "review_modules": "Review programme",
+    "certificate": {
+      "title": "Earn your digital credential!",
+      "body": "After completion of the required learning programme modules or upon receipt of a satisfactory assessment score, you will receive a digital credential."
+    },
+    "contents": {
+      "title": "Learning Programme Contents"
+    },
+    "introduction_video": "Learning Programme introduction",
+    "save_for_later": "Save for later",
+    "start_learning": "Start Learning",
+    "continue_learning": "Continue Learning",
+    "started_on_date": "Started on {s}",
+    "x_modules_5": "%d modules",
+    "x_modules_1": "1 module",
+    "x_modules_0": "0 modules",
+    "x_percent_complete": "{d}% complete",
+    "enrolled": "Enrolled",
+    "enrolled_alert": {
+      "title": "Enrolled Successfully",
+      "message": "You are now enrolled in this learning programme. You can find the learning programme under My Learning."
+    },
+    "unenroll": {
+      "alert": {
+        "title": "Unenroll from this learning programme?",
+        "message": "Are you sure you want to unenroll from this learning programme?"
+      },
+      "title": "Unenroll"
+    },
+    "completed_successfully": "Completed successfully",
+    "learning_programme": {
+      "begin": {
+        "title": "Learning Programme begins on"
+      },
+      "start": {
+        "title": "Learning Programme started on"
+      },
+      "complete": {
+        "title": "Learning Programme completed on"
+      }
+    },
+    "tab": {
+      "course_overview": "Programme Overview",
+      "modules": "Modules"
+    },
+    "breadcrumb": {
+      "course": "Learning Programmes",
+      "all_courses": "All Learning Programmes"
+    },
+    "enrollments_closed": "Enrollment closed",
+    "x_chapters_0": "0 chapters",
+    "x_chapters_1": "1 chapter",
+    "x_chapters_3": "%d chapters",
+    "x_chapters_4": "%d chapters",
+    "x_chapters_5": "%d chapters"
+  },
+  "general": {
+    "value_out_of_total": "%{value} / %{total}",
+    "save": "Save",
+    "cancel": "Cancel",
+    "change": "Change",
+    "edit": "Edit",
+    "next": "Next",
+    "done": "Done",
+    "select": "Select…",
+    "skip": "Skip",
+    "close": "Close",
+    "back": "Back",
+    "no_selection": "No selection",
+    "error_occurred": "Whoops! Something went wrong.",
+    "try_again": "Try again",
+    "try_again_later": "Please try again later.",
+    "loading_ellipsis": "Loading…",
+    "choose_an_action": "Choose an action…",
+    "upload": "Upload",
+    "delete": "Delete",
+    "dismiss": "Dismiss",
+    "clear": "Clear",
+    "menu": {
+      "home": "Home",
+      "my_learning": "My Learning"
+    },
+    "explore_learning_programmes": "Explore Learning Programmes",
+    "restart_needed": "The app will now restart with your updated settings.",
+    "continue": "Continue",
+    "ok": "Okay",
+    "show_all": "Show all"
+  },
+  "self_paced": {
+    "contents": "Contents"
+  },
+  "my_learning": {
+    "heading": "My Learning",
+    "section": {
+      "continue": "In Progress",
+      "enrolled": "Enrolled",
+      "saved": "Saved",
+      "completed": "Completed",
+      "recommended": "Recommended"
+    },
+    "tab": {
+      "continue_learning": "Continue Learning",
+      "recommendations": "Recommendations",
+      "insights": "Learning Insights",
+      "wishlist": "Wish List",
+      "my_achievements": "My Achievements",
+      "completed": "Completed"
+    },
+    "continue_learning": {
+      "empty": {
+        "title": "Enroll in a Learning Programme to start learning",
+        "subtitle": "View the progress you have made on the Learning Programmes once you enroll"
+      }
+    },
+    "completed": {
+      "empty": {
+        "title": "You haven't finished any learning programmes...yet!",
+        "subtitle": "But keep up the good work and this page will be full soon."
+      }
+    }
+  },
+  "my_profile": {
+    "details": {
+      "heading": "Profile Information",
+      "subheading": "Your profile information will only be used for credentialing purposes.",
+      "title": "Edit Profile",
+      "edit_picture": "Edit Profile Picture",
+      "job_role": {
+        "title": "Current role"
+      },
+      "job_tenure": {
+        "title": "How long have you been in your current role?"
+      },
+      "full_name": "Full name",
+      "email": "Email",
+      "age": "Age",
+      "gender": "Gender",
+      "remove_photo": "Remove Photo",
+      "choose_photo": "Choose Photo",
+      "move_and_scale": "Move and Scale",
+      "update_picture": "Update Profile Picture",
+      "first_name": "First Name",
+      "last_name": "Last Name"
+    },
+    "heading": "My Profile",
+    "education": {
+      "heading": "Educational Background",
+      "subheading": "Modify your educational background."
+    },
+    "skills": {
+      "heading": "Skills & Experience",
+      "subheading": "Modify your skills and experience."
+    },
+    "language": {
+      "heading": "Language",
+      "subheading": "Modify your language settings.",
+      "label": "Select your preferred platform language"
+    },
+    "interests": {
+      "heading": "Learning Interests",
+      "subheading": "Modify your learning interests."
+    },
+    "privacy": {
+      "heading": "Privacy Settings",
+      "subheading": "Modify your privacy settings."
+    },
+    "log_out": {
+      "title": "Log Out",
+      "alert": {
+        "title": "Confirm Logout?",
+        "subtitle": "Are you sure you want to log out?",
+        "button": "Log Out"
+      }
+    },
+    "feedback": "Feedback",
+    "designed_by": "Designed & developed by",
+    "who_academy": "the WHO Academy",
+    "account": {
+      "title": "Account Preferences"
+    },
+    "account_preferences": "Account Preferences",
+    "goals_and_skills": "Goals & Skills",
+    "goals": {
+      "skills": "Skills",
+      "goals": "Goals",
+      "saved": "Saved"
+    },
+    "profile_image": "{s}'s profile image",
+    "edit_profile": "Edit Profile",
+    "gender": {
+      "other": {
+        "please_specify": "Please specify"
+      }
+    },
+    "error": {
+      "profile_image_upload": "We were unable to upload your profile picture."
+    },
+    "terms_conditions": "Terms & Conditions",
+    "delete_picture": {
+      "title": "Delete profile picture?",
+      "subtitle": "Are you sure you want to delete your profile picture?"
+    }
+  },
+  "dashboard": {
+    "continue_learning": {
+      "title": "Continue Learning",
+      "empty": {
+        "button": "Discover Learning",
+        "title": "Keep exploring your learning options."
+      }
+    },
+    "title": "Dashboard",
+    "discover_learning": "Discover learning",
+    "welcome": {
+      "welcome_name": "Welcome, {s}!",
+      "title": "Welcome!",
+      "subtitle": "It's so good to have you on board!"
+    },
+    "upcoming_events": {
+      "title": "Upcoming Events"
+    },
+    "complete_your_profile": "Complete your profile",
+    "feedback": {
+      "button": "Share Feedback",
+      "message": "Please take a few minutes to share your experience in using the Academy's learning platform. Your feedback will help us improve your experience. Thank you!",
+      "title": "We want to hear from you!"
+    }
+  },
+  "data": {
+    "current_role_duration": {
+      "lessThanSixMonths": "< 6 months",
+      "lessThanOneYear": "< 1 year",
+      "oneToTwoYears": "1–2 years",
+      "twoToThreeYears": "2–3 years",
+      "threeToFiveYears": "3–5 years",
+      "moreThanFiveYears": "5+ years"
+    },
+    "language": {
+      "en": "English",
+      "es": "Español",
+      "fr": "Français",
+      "ar": "العربية",
+      "ru": "Русский",
+      "zh": "中文",
+      "pt": "Portuguese"
+    },
+    "streaming_quality": {
+      "auto": "Auto",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+    "course_duration": {
+      "1month": "1 month",
+      "1day": "1 day",
+      "1week": "1 week",
+      "3months": "3 months",
+      "1year": "1 year",
+      "6months": "6 months"
+    },
+    "role_tenure": {
+      "1": "Fewer than 6 months",
+      "2": "Less than 1 year",
+      "3": "1–2 years",
+      "4": "2–3 years",
+      "5": "3–5 years",
+      "6": "More than 5 years"
+    },
+    "gender": {
+      "1": "Male",
+      "2": "Female",
+      "3": "Other…"
+    },
+    "release_date": {
+      "1": "All",
+      "2": "In the last month",
+      "3": "More than 1 month ago"
+    },
+    "age": {
+      "8": "75 or older"
+    },
+    "pacing": {
+      "self": "Self-paced",
+      "instructor": "Instructor-led"
+    }
+  },
+  "onboarding": {
+    "job": {
+      "heading": "Getting to know you",
+      "subheading": "Help us get to know you and understand your learning goals by answering the following questions. Your responses will help us in the future to create tailored learning recommendations and pathways.",
+      "current_role": {
+        "label": "Which of the following is closest to your job?",
+        "hint": "Role"
+      },
+      "duration": {
+        "label": "How long have you been working in this role?",
+        "hint": "Years"
+      },
+      "other": {
+        "please_specify": "Please specify"
+      },
+      "title": "Welcome to the WHO Academy"
+    },
+    "title": "Getting Started",
+    "location": {
+      "heading": "Getting to know you",
+      "subheading": "This information will enable us to provide you with our best recommendations for your learning pathway. ",
+      "country": {
+        "label": "Where are you located?",
+        "hint": "Country"
+      }
+    },
+    "goals": {
+      "heading": "Learning Goals",
+      "subheading": "This information will enable us to provide you with our best recommendations for your learning pathway. ",
+      "hint": "Tell us about your learning goals",
+      "placeholder": "Write up to 5 goals (or interests or items) e.g. \"Ebola\", \"COVID-19\", \"Emergency\""
+    },
+    "get_started": {
+      "title": "Begin your learning now!",
+      "subtitle": "You have successfuly finished your onboarding. We are thrilled to have you on board!",
+      "button": "Start Learning"
+    },
+    "steps": {
+      "general": "General Information",
+      "learning_goals": "Learning Goals"
+    }
+  },
+  "search": {
+    "filter": {
+      "duration": "Completion Time",
+      "audience": "Target Audience",
+      "goals": "Learning Goals",
+      "release_date": "Release Date",
+      "reset": "Reset",
+      "apply": "Apply",
+      "language": "Language",
+      "title": "Filters"
+    },
+    "tab": {
+      "learning_programs": "Learning Programmes",
+      "modules": "Modules"
+    },
+    "empty": {
+      "subtitle": "but stay tuned as we are always adding learning programmes to our platform.",
+      "title": "Oops! It looks like we don't have that yet..."
+    },
+    "hint": "Press enter to search"
+  },
+  "achievements": {
+    "empty": {
+      "button": "Explore Learning Programmes",
+      "subtitle": "Once you start a learning programme your credentials will be shown here.",
+      "title": "You have not completed any learning programmes yet."
+    },
+    "copy_url": "Copy URL",
+    "issuer_name": "Issuer name",
+    "microcredentials": "Microcredentials",
+    "url_copied": "URL copied",
+    "valid_from": "Valid from",
+    "microcredential": "Microcredential",
+    "view_credential": "View Digital Credential",
+    "share_credential": "Share Digital Credential"
+  },
+  "vle": {
+    "next": "Next",
+    "previous": "Previous",
+    "not_enrolled": "You are not currently enrolled in this learning programme.",
+    "next_module": "Next module",
+    "finish": "Finish",
+    "exit_course": "Back to home",
+    "success": {
+      "title": "Congratulations!",
+      "microcredential": {
+        "subtitle": "You have been awarded a Microcredential",
+        "message": "You can see all your credentials from My Achievements",
+        "button": "Go to my achievements"
+      },
+      "completed": {
+        "subtitle": "Learning Programme Completed",
+        "message": "You can continue your learning journey by browsing our catalogue."
+      }
+    },
+    "previous_module": "Previous module",
+    "unit": {
+      "empty": {
+        "message": "No units found"
+      }
+    },
+    "reader_view": "Reader View",
+    "default_view": "Default View",
+    "course_exit": "Back to home",
+    "error": {
+      "incomplete": {
+        "title": "You have not completed all modules yet!",
+        "message": "All modules must be completed to finish the learning programme."
+      },
+      "zoom_not_installed": {
+        "title": "You do not have Zoom installed",
+        "message": "Zoom is required to access virtual live classrooms.",
+        "button": {
+          "ios": "Show in App Store",
+          "android": "Show in Play Store"
+        }
+      }
+    },
+    "next_chapter": "Next Chapter",
+    "previous_chapter": "Previous Chapter"
+  },
+  "discussions": {
+    "empty": "You are not enrolled in any learning programmes.",
+    "heading": "Discussions",
+    "post": {
+      "all_responses": "All Responses"
+    }
+  },
+  "welcome": {
+    "start_learning": {
+      "button": "Start Learning"
+    },
+    "title": "Welcome to the WHO Academy.",
+    "subtitle": "Transforming lifelong learning for global health impact.",
+    "footer": "Designed and developed by the WHO Academy. For more information, please see our Terms and Conditions."
+  }
+}

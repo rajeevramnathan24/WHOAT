@@ -1,0 +1,17 @@
+package test.PageMessages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+public class MessagesStudioHomePage {
+
+	public MessagesStudioHomePage(WebDriver driver){
+		PageFactory.initElements(driver, this);
+	}
+	
+	
+	//-----------------------------------#page messages/ labels/ Texts--------------------------------------------
+	
+	public String Label_StudioHomePage = "Studio Home";
+	
+}

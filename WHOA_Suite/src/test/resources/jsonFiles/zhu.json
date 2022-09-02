@@ -1,0 +1,436 @@
+{
+  "course": {
+    "x_learners_enrolled_1": "一名学习者加入该课程",
+    "x_learners_enrolled_5": "%d学习者加入该课程",
+    "x_learners_enrolled_0": "无学习者加入该课程",
+    "requires_x_months_1": "1个月",
+    "requires_x_months_5": "%d个月",
+    "requires_x_months_0": "<1个月",
+    "enroll_now": "加入该课程",
+    "x_reviews_1": "1个查看",
+    "x_reviews_5": "%d个查看",
+    "x_reviews_0": "无查看",
+    "review_modules": "课程回顾",
+    "certificate": {
+      "title": "获得您的在线学分！",
+      "body": "完成所需的学习课程模块或收到满意的评估分数后，您将收到一份数字证书。"
+    },
+    "contents": {
+      "title": "学习课程内容\t"
+    },
+    "introduction_video": "学习课程介绍",
+    "save_for_later": "保存，以后继续",
+    "start_learning": "开始学习",
+    "continue_learning": "继续学习",
+    "started_on_date": "开始{s}",
+    "x_modules_5": "%d个模块",
+    "x_modules_1": "1个模块",
+    "x_modules_0": "0个模块",
+    "x_percent_complete": "{d}%完成",
+    "enrolled": "已加入课程",
+    "enrolled_alert": {
+      "title": "成功加入课程",
+      "message": "您已成功加入本学习课程。您可以在我的学习栏目中找到您选择的学习课程。"
+    },
+    "unenroll": {
+      "alert": {
+        "title": "取消该课程学习？",
+        "message": "您确定要取消该课程学习？"
+      },
+      "title": "取消课程"
+    },
+    "completed_successfully": "成功完成课程",
+    "learning_programme": {
+      "begin": {
+        "title": "课程学习开始于"
+      },
+      "start": {
+        "title": "开始课程学习的时间为"
+      },
+      "complete": {
+        "title": "课程学习结束于"
+      }
+    },
+    "tab": {
+      "course_overview": "课程概览",
+      "modules": "课程模块"
+    },
+    "breadcrumb": {
+      "course": "学习课程",
+      "all_courses": "所有学习课程"
+    },
+    "enrollments_closed": "注册完成",
+    "x_chapters_0": "章节0",
+    "x_chapters_1": "章节1",
+    "x_chapters_3": "章节%d",
+    "x_chapters_4": "章节%d",
+    "x_chapters_5": "章节%d"
+  },
+  "general": {
+    "value_out_of_total": "%{value} / %{total}",
+    "save": "已保存",
+    "cancel": "取消",
+    "change": "更改",
+    "edit": "编辑",
+    "next": "下一步",
+    "done": "完成",
+    "select": "选择...",
+    "skip": "略过此步",
+    "close": "关闭",
+    "back": "上一步",
+    "no_selection": "未选择",
+    "error_occurred": "抱歉！出现错误。",
+    "try_again": "请您再次尝试操作",
+    "try_again_later": "请稍后再试。",
+    "loading_ellipsis": "加载中...",
+    "choose_an_action": "选择一项操作...",
+    "upload": "上传",
+    "delete": "删除",
+    "dismiss": "取消",
+    "clear": "清除",
+    "menu": {
+      "home": "主界面",
+      "my_learning": "我的学习"
+    },
+    "explore_learning_programmes": "查看学习课程",
+    "restart_needed": "应用程序将在设置更新后重启。",
+    "continue": "继续",
+    "ok": "确认",
+    "show_all": "显示全部内容"
+  },
+  "self_paced": {
+    "contents": "内容"
+  },
+  "my_learning": {
+    "heading": "我的学习",
+    "section": {
+      "continue": "进行中",
+      "enrolled": "已加入课程",
+      "saved": "已保存",
+      "completed": "已完成",
+      "recommended": "推荐"
+    },
+    "tab": {
+      "continue_learning": "继续学习",
+      "recommendations": "课程推荐",
+      "insights": "学习感受",
+      "wishlist": "期望列表",
+      "my_achievements": "我的成就",
+      "completed": "完成"
+    },
+    "continue_learning": {
+      "empty": {
+        "title": "参加一个学习课程，开启您的学习之旅",
+        "subtitle": "查看您选择的课程的学习进展"
+      }
+    },
+    "completed": {
+      "empty": {
+        "title": "您尚未完成任何学习课程…请注意！",
+        "subtitle": "加油，本页内容即将完成。"
+      }
+    }
+  },
+  "my_profile": {
+    "details": {
+      "heading": "个人文件信息",
+      "subheading": "您的个人文件信息仅用于学分授予目的。",
+      "title": "编辑个人文件",
+      "edit_picture": "编辑个人资料图片",
+      "job_role": {
+        "title": "当前身份"
+      },
+      "job_tenure": {
+        "title": "您目前的身份到目前持续多长时间？"
+      },
+      "full_name": "全名",
+      "email": "电子邮件",
+      "age": "年龄",
+      "gender": "性别",
+      "remove_photo": "删除照片",
+      "choose_photo": "选择照片",
+      "move_and_scale": "移动和缩放",
+      "update_picture": "编辑个人资料图片",
+      "first_name": "名",
+      "last_name": "姓"
+    },
+    "heading": "我的个人文件",
+    "education": {
+      "heading": "教育背景",
+      "subheading": "修改您的教育背景。"
+    },
+    "skills": {
+      "heading": "技能和经验",
+      "subheading": "修改您的技能和经验。"
+    },
+    "language": {
+      "heading": "语言",
+      "subheading": "修改您的语言设置。",
+      "label": "请选择您喜欢的平台语言"
+    },
+    "interests": {
+      "heading": "学习兴趣",
+      "subheading": "修改您的学习兴趣。"
+    },
+    "privacy": {
+      "heading": "隐私设置",
+      "subheading": "修改您的隐私设置。"
+    },
+    "log_out": {
+      "title": "登出",
+      "alert": {
+        "title": "确认登出？",
+        "subtitle": "您是否确认登出？",
+        "button": "登出"
+      }
+    },
+    "feedback": "反馈",
+    "designed_by": "设计及开发者为",
+    "who_academy": "世界卫生组织学院",
+    "account": {
+      "title": "账户用户偏好"
+    },
+    "account_preferences": "账户用户偏好",
+    "goals_and_skills": "目标和技能",
+    "goals": {
+      "skills": "技能",
+      "goals": "目标",
+      "saved": "已保存"
+    },
+    "profile_image": "{s}个人资料形象",
+    "edit_profile": "编辑个人资料",
+    "gender": {
+      "other": {
+        "please_specify": "请具体说明"
+      }
+    },
+    "error": {
+      "profile_image_upload": "我们无法上传您的个人资料图片。"
+    },
+    "terms_conditions": "条款和规定",
+    "delete_picture": {
+      "title": "删除个人资料图片？",
+      "subtitle": "您是否确定选择删除您的个人资料图片？"
+    }
+  },
+  "dashboard": {
+    "continue_learning": {
+      "title": "继续学习",
+      "empty": {
+        "button": "搜索课程",
+        "title": "持续探索不同的学习选项"
+      }
+    },
+    "title": "仪表盘",
+    "discover_learning": "搜索课程",
+    "welcome": {
+      "welcome_name": "欢迎，{s}!",
+      "title": "欢迎!",
+      "subtitle": "非常高兴您的加入！"
+    },
+    "upcoming_events": {
+      "title": "即将上线的内容"
+    },
+    "complete_your_profile": "完成您的个人资料",
+    "feedback": {
+      "button": "分享反馈",
+      "message": "请花几分钟时间分享您使用世界卫生组织学院的学习平台的体验。您的反馈将帮助我们提升您的使用体验。感谢！",
+      "title": "衷心期待您的真知灼见！"
+    }
+  },
+  "data": {
+    "current_role_duration": {
+      "lessThanSixMonths": "<6个月",
+      "lessThanOneYear": "<1年",
+      "oneToTwoYears": "1-2年",
+      "twoToThreeYears": "2-3年",
+      "threeToFiveYears": "3-5年",
+      "moreThanFiveYears": "5-2年"
+    },
+    "language": {
+      "en": "English",
+      "es": "Español",
+      "fr": "Français",
+      "ar": "العربية",
+      "ru": "Русский",
+      "zh": "中文"
+    },
+    "streaming_quality": {
+      "auto": "自动配置",
+      "low": "低\t",
+      "medium": "中",
+      "high": "高"
+    },
+    "course_duration": {
+      "1month": "1个月",
+      "1day": "1天",
+      "1week": "1周",
+      "3months": "3个月",
+      "1year": "1年",
+      "6months": "6个月"
+    },
+    "role_tenure": {
+      "1": "不到6个月",
+      "2": "不到1年",
+      "3": "1-2年",
+      "4": "2-3年",
+      "5": "3-5年",
+      "6": "5年以上"
+    },
+    "gender": {
+      "1": "男性\t",
+      "2": "女性",
+      "3": "其他..."
+    },
+    "release_date": {
+      "1": "全部",
+      "2": "上个月",
+      "3": "1个月以上"
+    },
+    "age": {
+      "8": "75岁及以上"
+    },
+    "pacing": {
+      "self": "自定进度",
+      "instructor": "讲师指导"
+    }
+  },
+  "onboarding": {
+    "job": {
+      "heading": "了解您的基本信息",
+      "subheading": "通过回答以下问题，帮助我们了解您的基本信息以及您的学习目标。您的回答将帮助我们在未来为您创建定制的学习建议和途径。",
+      "current_role": {
+        "label": "以下哪一项与您的职业最为接近？",
+        "hint": "当前工作"
+      },
+      "duration": {
+        "label": "您从事目前的职业多长时间？",
+        "hint": "当前工作年限"
+      },
+      "other": {
+        "please_specify": "请具体说明"
+      },
+      "title": "欢迎来到世界卫生组织学院"
+    },
+    "title": "开始",
+    "location": {
+      "heading": "了解您的基本信息",
+      "subheading": "这些信息将帮助我们为您提供学习途径的最佳建议。 ",
+      "country": {
+        "label": "您位于哪个位置？",
+        "hint": "您所在国家"
+      }
+    },
+    "goals": {
+      "heading": "学习目标",
+      "subheading": "这些信息将帮助我们为您提供学习途径的最佳建议。 ",
+      "hint": "请说明您的学习目标",
+      "placeholder": "最多写5个目标（或兴趣或），例如“埃博拉”、“新型冠状病毒肺炎”、“突发事件”"
+    },
+    "get_started": {
+      "title": "现在开始您的学习之旅!",
+      "subtitle": "你已经成功完成学习启动流程。非常高兴您的加入！",
+      "button": "开始学习"
+    },
+    "steps": {
+      "general": "基本信息",
+      "learning_goals": "学习目标"
+    }
+  },
+  "search": {
+    "filter": {
+      "duration": "完成时间",
+      "audience": "目标听众",
+      "goals": "学习目标",
+      "release_date": "发布日期",
+      "reset": "重置",
+      "apply": "申请",
+      "language": "语言",
+      "title": "过滤器"
+    },
+    "tab": {
+      "learning_programs": "学习课程",
+      "modules": "学习模块"
+    },
+    "empty": {
+      "subtitle": "敬请继续关注，我们将更新平台的学习课程和内容。",
+      "title": "很抱歉！目前我们尚无此类课程..."
+    },
+    "hint": "按Enter键进行搜索"
+  },
+  "achievements": {
+    "empty": {
+      "button": "查看学习课程",
+      "subtitle": "开始某个课程的学习后，您完成的学分在此处显示。",
+      "title": "您尚未完成任何学习课程。"
+    },
+    "copy_url": "复制URL",
+    "issuer_name": "学分授予者\t",
+    "microcredentials": "分项学分",
+    "url_copied": "已复制URL",
+    "valid_from": "生效日期",
+    "microcredential": "分项课程学分",
+    "view_credential": "查看获得的分项课程学分",
+    "share_credential": "分享学分"
+  },
+  "vle": {
+    "next": "下一步",
+    "previous": "前一步",
+    "not_enrolled": "您目前尚未加入本学习课程。",
+    "next_module": "下一学习模块",
+    "finish": "完成",
+    "exit_course": "回到主页",
+    "success": {
+      "title": "恭喜！",
+      "microcredential": {
+        "subtitle": "您已获得分项学分",
+        "message": "您可以在我的成就中查看您获得的学分",
+        "button": "进入我的成就"
+      },
+      "completed": {
+        "subtitle": "课程学习结束",
+        "message": "您可以浏览我们的课程目录，继续您的学习之旅。"
+      }
+    },
+    "previous_module": "上一个课程模块",
+    "unit": {
+      "empty": {
+        "message": "未发现任何单元信息"
+      }
+    },
+    "reader_view": "阅读模式",
+    "default_view": "默认模式",
+    "course_exit": "登出课程",
+    "error": {
+      "incomplete": {
+        "title": "您尚未完成所有模块的学习！",
+        "message": "完成所有模块后该课程的学习才会正式结束。"
+      },
+      "zoom_not_installed": {
+        "title": "您的设备尚未安装Zoom应用程序",
+        "message": "访问虚拟直播教室必需安装Zoom。",
+        "button": {
+          "ios": "苹果App Store链接",
+          "android": "谷歌Play Store链接"
+        }
+      }
+    },
+    "next_chapter": "下一章节",
+    "previous_chapter": "前一章节"
+  },
+  "discussions": {
+    "empty": "您尚未加入任何学习课程。",
+    "heading": "讨论",
+    "post": {
+      "all_responses": "所有回复"
+    }
+  },
+  "welcome": {
+    "start_learning": {
+      "button": "开始学习"
+    },
+    "title": "欢迎来到世界卫生组织学院",
+    "subtitle": "终身学习、带来改变，助推全球健康发展",
+    "footer": "世界卫生组织学院有关更多信息，请参阅我们的条款和规定"
+  }
+}
